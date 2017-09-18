@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Volkhov');
+
+body{
+    background:url("cakepics/dark-triangles.png");
+    margin:auto;
+    text-align:center;
+    font-family: 'Volkhov', serif;
+}
+
+.navbar{
+    border:0px;
+    margin:auto;
+}
+.carousel{
+    margin:auto;
+}
+.topleft{
+    color:white;
+    max-height:100px;
+}
+.text{
+    margin:auto;
+     padding:100px 0px 100px 0px; 
+  text-align:center;
+  
+    color:white;
+}
+.carousel{
+    color:white;
+margin:auto;
+}
+.carousel-inner{
+    max-height:300;
+text-align:center;
+margin:auto;
+}
+#myCarousel{
+    padding: 10px 5px 10px 5px;
+}
+#communicate{
+    
+}
